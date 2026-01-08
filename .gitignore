@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# User config (DO NOT COMMIT)
+config.py
+
+# macOS
+.DS_Store
