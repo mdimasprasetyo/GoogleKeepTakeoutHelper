@@ -36,3 +36,6 @@ Or:
 ```bash
 python3 GoogleKeepTakeoutHelper.py
 ```
+
+## ⚠️ 
+`dev` branch is for active development and experiment, it may be unstable. Don't fork from that branch.
